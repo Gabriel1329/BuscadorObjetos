@@ -1,3 +1,5 @@
+//objetos: CCCCC, NNNN, EE, AA, RR
+
 //Programa "Buscar Objetos Escondidos"
 #include <iostream>
 #include <cstdlib>
